@@ -27,7 +27,7 @@ export default function EmailValidator() {
     <div>
       <form onSubmit={formik.handleSubmit}>
         <div>
-          <label for="email">Email</label>
+          <label htmlFor="email">Email</label>
           <input
             type="text"
             name="email"
