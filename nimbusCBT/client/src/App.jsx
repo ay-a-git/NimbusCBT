@@ -1,5 +1,6 @@
 import { useState } from "react";
 import EmailValidator from "./components/EmailValidation.jsx";
+
 import TimeCapsule from "./components/TimeCapsule.jsx";
 
 function App() {
@@ -12,8 +13,12 @@ function App() {
 
   return (
     <div className="App">
+
       <h1>Email thing</h1>
       <EmailValidator />
+
+      {/* <h1>Email thing</h1>
+      <EmailValidator /> */}
 
       <TimeCapsule />
     </div>
