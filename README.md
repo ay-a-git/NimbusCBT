@@ -2,7 +2,7 @@
 
 This is an app for journaling and meta-cognition improvement. It is still a work in progress.
 
-![image]([https://user-images.githubusercontent.com/56422761/172072005-6aa99131-0e7b-4d78-a3af-68e92b561b4f.png](https://user-images.githubusercontent.com/56422761/237559636-828e87ee-c7ca-4591-8c15-f254c926ade7.png))
+![NimbusLogo](NimbusLogo.png)
 
 
 ## What This Includes
@@ -22,7 +22,7 @@ npm run dev
 ```
 
 ## Starting from Scratch
-* Set up Yarn: https://yarnpkg.com/lang/en/docs/install/#mac-stable)[https://yarnpkg.com/lang/en/docs/install/
+* Set up Yarn: (Install)[https://yarnpkg.com/lang/en/docs/install/
 
 * Inside the directory of your choice, scaffold a new Gatsby site:
 ```
