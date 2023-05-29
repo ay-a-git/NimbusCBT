@@ -4,7 +4,10 @@ import EmailValidator from "./components/EmailValidation.jsx";
 function App() {
   return (
     <div className="App">
-      <EmailValidator />
+
+  const [count, setCount] = useState(0);
+  return (
+    <div className="App">
       <TimeCapsule />
     </div>
   );
