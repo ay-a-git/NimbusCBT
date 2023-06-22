@@ -27,15 +27,7 @@ export default function EmailValidator() {
     <div>
       <form onSubmit={formik.handleSubmit}>
         <div>
-<<<<<<< HEAD
-          <label for="email">Email</label>
-<<<<<<< HEAD
           <label htmlFor="email">Email</label>
-=======
->>>>>>> adds basic email validator component
-=======
-          <label htmlFor="email">Email</label>
->>>>>>> Created test timer for messages to return to console
           <input
             type="text"
             name="email"
