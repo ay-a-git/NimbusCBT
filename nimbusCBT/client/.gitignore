@@ -7,6 +7,11 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+nimbusCBT/node*
+nimbusCBT/backend/node*
+nimbusCBT/backend/yarn.lock
+nimbusCBT/backend/package.json
+
 node_modules
 dist
 dist-ssr
