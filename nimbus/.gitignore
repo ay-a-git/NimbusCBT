@@ -3,6 +3,9 @@ nimbusCBT/nimbus/node*
 nimbusCBT/nimbus/package.json
 nimbusCBT/nimbus/package-lock.json
 
+nimbusCBT/nimbus/.*
+!nimbus/.gitignore
+
 # Logs
 logs
 *.log
